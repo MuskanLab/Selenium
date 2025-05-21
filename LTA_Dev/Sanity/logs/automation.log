@@ -1,0 +1,13 @@
+2025-04-23 01:06:16 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-23 01:06:16 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+2025-04-23 01:06:18 ERROR LoginPage:52 - Login error 52
+2025-04-23 01:07:26 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-23 01:07:26 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+2025-04-23 01:07:28 INFO  LoginPage:52 - Login error 52
+2025-04-23 16:34:31 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-23 16:34:31 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+2025-05-07 22:20:16 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-05-07 22:20:16 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+2025-05-07 22:20:18 INFO  LoginPage:52 - Login error 52
+2025-05-07 22:28:50 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-05-07 22:28:50 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels

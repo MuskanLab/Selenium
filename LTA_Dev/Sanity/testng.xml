@@ -1,0 +1,12 @@
+<suite name="Suite">
+	 <listeners>
+        <listener class-name="Listener.TestListener"/>
+    </listeners>
+  <test name="LoginTest">
+    <classes>
+      <class name="tests.LoginTest"/>
+    </classes>
+  </test>
+</suite>
+
+
